@@ -157,9 +157,10 @@
 	height: 1300px;
 }
 .div-1{
-/*	display: flex;
+	display: flex;
 	just/ify-content: center;
-	align-items: center;*/
+	align-items: center;
+	flex-direction: column;
 }
 .h4{
 	font-size: 20px;
@@ -167,22 +168,20 @@
 	font-weight: bold;
 	font-family: 'Lato', sans-serif;
 	padding-top: 50px;
-	padding-bottom: 17px;
-	padding-left: 640px;	
+	/*padding-bottom: 17px;
+	padding-left: 640px;*/	
 }
 .h1{
 	color: #5A5454;
 	font-size: 40px;
-	padding-left: 440px;
 	padding-bottom: 21px;
 }
 .p{
+	width: 700px;
 	height: 80px;
 	color: #747474;
 	font-size: 18px;
-	padding-right: 550px;
 	padding-bottom: 80px;
-	padding-left: 440px;
 }
 /*start boxes*/
 .div-2{
